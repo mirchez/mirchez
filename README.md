@@ -4,11 +4,11 @@
 </h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;MERN+Stack+Web+Developer;UX%20/%20UI%20%Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;MERN+Stack+Web+Developer;UX%20/%20UI%20%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=40">
 </a>
+	
 </p>
-
-<h2>🌱About Me</h2>
+<h2>🌱𝘼𝙗𝙤𝙪𝙩 𝙢𝙚</h2>
 <p>
     👋 Hi! I’m Miguel Miranda, a junior developer passionate about building dynamic and functional web applications using the MERN stack. Currently, I’m pursuing a degree in Systems Engineering, where I blend academic knowledge with hands-on development experience.
 
@@ -25,7 +25,9 @@ I thrive on tackling new challenges and exploring technologies that push my proj
 😃 I look forward to collaborate on impactful projects.
 </pre>
 <br/>
-<h2>My Skills</h2>
+<h2 >
+  🛠️ 𝙈𝙮 𝙨𝙠𝙞𝙡𝙡𝙨 🔧
+</h2>
 
    <h3 align="center">Frontend</h3>
 <p align="center">
@@ -48,7 +50,7 @@ I thrive on tackling new challenges and exploring technologies that push my proj
   </a>
 </p>
 <br/>
-<h3>Get in touch</h3>
+<h3>𝙂𝙚𝙩 𝙞𝙣 𝙩𝙤𝙪𝙘𝙝</h3>
 <a target="_blank" href="www.linkedin.com/in/mirchez"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:mmirandasanchez16@gmail.com"
