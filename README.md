@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, &lt;devs/&gt; 
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;MERN+Stack+Web+Developer;UX%20|%20UI%20|%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=40">
+</a>
+</p>
 
-<!--
-**mirchez/mirchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About Me</h2>
+<p>
+    👋 Hi! I’m Miguel Miranda, a junior developer passionate about building dynamic and functional web applications using the MERN stack. Currently, I’m pursuing a degree in Systems Engineering, where I blend academic knowledge with hands-on development experience.
 
-Here are some ideas to get you started:
+I thrive on tackling new challenges and exploring technologies that push my projects to the next level. My goal is to create digital solutions that are not only visually appealing but also intuitive and efficient for users.
+</p>
+<pre>
+💻 I am mainly a Frontend Developer.
+📚 I have a B2 English level and my native lenguage is Spanish.
+📝 I have a strong interest in Software Engineering and Design.
+🛠️ Currently working on some personal proyects for my portfolio.
+🌱 Learning more about backend.
+🌟 Main language: Javascript 😁.
+🚩 Interested in Server Side Application development.
+😃 I look forward to collaborate on impactful projects.
+</pre>
+<br/>
+<h2>My Skills</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind&perline=14" />
+  </a>
+</p>
+<br/>
+  <h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,firebase,express&perline=14" />
+  </a>
+</p>
+<br/>
+  <h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,jest,babel&perline=14" />
+  </a>
+</p>
+<br/>
+<h3>Get in touch</h3>
+<a target="_blank" href="www.linkedin.com/in/mirchez"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:mmirandasanchez16@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.instagram.com/mirchez_/"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
