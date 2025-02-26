@@ -1,14 +1,14 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, &lt;devs/&gt; 
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+👋 𝐇𝐞𝐥𝐥𝐨, &lt;devs/&gt;! 🚀  
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;MERN+Stack+Web+Developer;UX%20|%20UI%20|%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;MERN+Stack+Web+Developer;UX%20/%20UI%20%Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=40">
 </a>
 </p>
 
-<h2>About Me</h2>
+<h2>🌱About Me</h2>
 <p>
     👋 Hi! I’m Miguel Miranda, a junior developer passionate about building dynamic and functional web applications using the MERN stack. Currently, I’m pursuing a degree in Systems Engineering, where I blend academic knowledge with hands-on development experience.
 
@@ -30,21 +30,21 @@ I thrive on tackling new challenges and exploring technologies that push my proj
    <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,sass&perline=14" />
   </a>
 </p>
 <br/>
   <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,firebase,express&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mongo,firebase,express,postgresql,nodejs&perline=14" />
   </a>
 </p>
 <br/>
   <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,jest,babel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,vite,jest,babel,postman,gulp,mui,figma&perline=14" />
   </a>
 </p>
 <br/>
