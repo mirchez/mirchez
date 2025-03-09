@@ -17,11 +17,11 @@ I thrive on tackling new challenges and exploring technologies that push my proj
 <pre>
 💻 I am mainly a Frontend Developer.
 📚 I have a C1 English level and my native lenguage is Spanish.
-📝 I have a strong interest in Software Engineering and Design.
+📝 I am very interested in AI innovation and Web3 development.
 🛠️ Currently working on some personal proyects for my portfolio.
 🌱 Learning more about backend.
-🌟 Main language: Javascript 😁.
-🚩 Interested in Server Side Application development.
+🌟 Main language: Typescript 😁.
+✅ Familiarity with languages: Python, Java, C++.
 😃 I look forward to collaborate on impactful projects.
 </pre>
 <br/>
