@@ -32,7 +32,7 @@ I thrive on tackling new challenges and exploring technologies that push my proj
    <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,sass&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,sass&perline=14" />
   </a>
 </p>
 <br/>
