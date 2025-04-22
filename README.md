@@ -10,7 +10,7 @@
 </p>
 <h2>🌱𝘼𝙗𝙤𝙪𝙩 𝙢𝙚</h2>
 <p>
-    👋 Hi! I’m Miguel Miranda, a junior developer passionate about building dynamic and functional web applications using the MERN stack. Currently, I’m pursuing a degree in Systems Engineering, where I blend academic knowledge with hands-on development experience.
+    👋 Hi! I’m Miguel Miranda, a developer passionate about building dynamic and functional web applications using the MERN stack. Currently, I’m pursuing a degree in Systems Engineering, where I blend academic knowledge with hands-on development experience.
 
 I thrive on tackling new challenges and exploring technologies that push my projects to the next level. My goal is to create digital solutions that are not only visually appealing but also intuitive and efficient for users.
 </p>
