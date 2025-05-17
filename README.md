@@ -12,14 +12,14 @@
 <p>
     👋 Hi! I’m Miguel Miranda, a developer passionate about building dynamic and functional web applications using the MERN stack. Currently, I’m pursuing a degree in Systems Engineering, where I blend academic knowledge with hands-on development experience.
 
-I thrive on tackling new challenges and exploring technologies that push my projects to the next level. My goal is to create digital solutions that are not only visually appealing but also intuitive and efficient for users.
+Curious by nature and passionate about learning.
+
 </p>
 <pre>
 💻 I am mainly a Frontend Developer.
 📝 I am very interested in AI innovation and Web3 development.
 🛠️ Currently working on some personal proyects for my portfolio.
-📚 I have a C1 English level and my native lenguage is Spanish.
-🌱 Learning more about backend and Web3.
+🌱 Learning more about Machine Learning.
 🌟 Main language: Typescript 😁.
 ✅ Familiarity with languages: Python, Java, C++.
 😃 I look forward to collaborate on impactful projects.
