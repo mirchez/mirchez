@@ -39,14 +39,14 @@ Curious by nature and passionate about learning.
   <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongo,firebase,express,postgresql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongo,firebase,express,prisma,graphql,postgresql&perline=14" />
   </a>
 </p>
 <br/>
   <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,vite,jest,babel,postman,docker,graphql,gulp,mui,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,vite,jest,babel,postman,docker,gulp,mui,figma&perline=14" />
   </a>
 </p>
 <br/>
