@@ -46,7 +46,7 @@ Curious by nature and passionate about learning.
   <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,cursor,vite,jest,babel,postman,docker,graphql,gulp,mui,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,vite,jest,babel,postman,docker,graphql,gulp,mui,figma&perline=14" />
   </a>
 </p>
 <br/>
