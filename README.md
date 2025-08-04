@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Miguel Miranda</h1>
-<p align="center">Fullstack Developer · Frontend-Focused · AI Curious</p>
+<h1 align="center">Miguel Miranda</h1>
+<p align="center">Engineer · Designer · Builder</p>
 
 ---
 
