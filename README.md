@@ -1,53 +1,52 @@
-<h1 align="center">Hey, I'm Miguel Miranda </h1>
-<p align="center">
-  Fullstack Developer   
-</p>
+<h1 align="center">Hey, I'm Miguel Miranda</h1>
+<p align="center">Fullstack Developer · Frontend-Focused · AI Curious</p>
 
 ---
 
-###  About Me
+###  TL;DR
 
-I'm a fullstack developer with a frontend focus (React.js, Next.js App Router, TailwindCSS, Shadcn).  
-Currently pursuing a degree in Systems Engineering, and building polished, production-ready apps with strong UX and clean architecture.
+I build modern fullstack apps with strong frontend UX and backend reliability.  
+Next.js React 19, TailwindCSS, Shadcn, and TypeScript on the frontend.  
+On the backend: Node.js, Prisma, PostgreSQL — with a clean tRPC structure and type safety throughout.
 
-I thrive on:
-- Building fast, scalable UI + backend systems
-- Integrating AI tools (OpenAI SDK, Inngest, prompt management, logging, evaluation)
-- Contributing to early-stage product development with ownership and clarity
+I have experiences integrating all of kinds of apis  like AI SDKs from OpenAI and Inngest to build workflows with prompt versioning, logging, and background jobs.
 
-Check out my portfolio: [miguel-miranda-portfolio.vercel.app](https://miguel-miranda-portfolio.vercel.app)
-
----
-
-###  Tech Stack
-
-**Frontend:** React.js · Next.js (App Router) · TailwindCSS · Shadcn · Framer Motion  
-**Backend:** Node.js · Hono.js · tRPC · Prisma · PostgreSQL · MongoDB  
-**Infra & Tools:** Docker · Turborepo · GitHub Actions · Clerk · Inngest SDK  
-**Other:** TypeScript · Zod · TanStack Query · Playwright · AI SDKs · OOP · SOLID
+Strong focus on scalable architecture (Docker, Turborepo, GitHub Actions), and developer experience.  
+Currently studying Software Engineering while building and shipping production-grade tools end to end.
 
 ---
 
-###  Projects
+### 🛠️ Stack Highlights
+
+**Frontend:** React.js · Next.js App Router · TailwindCSS · Shadcn · Framer Motion  
+**Backend:** Node.js · Hono.js · Appwrite · tRPC · Prisma · PostgreSQL · MongoDB  
+**Infra/AI:** Docker · Turborepo · GitHub Actions · Clerk · Inngest · OpenAI SDK  
+**Other:** TypeScript · Zod · TanStack Query · Playwright · OOP · SOLID
+
+---
+
+### 🚀 Projects
 
 **Telos** – AI-powered website builder  
-→ [Live Demo](https://telos-steel.vercel.app) · Built with Next.js, Prisma, Clerk, tRPC, Inngest
+→ [Live Demo](https://telos-steel.vercel.app)  
+→ Stack: Next.js · Prisma · Clerk · tRPC · Inngest
 
-**Forever** – E-commerce app  
-→ [Live Demo](https://forever-ecommerce-teal.vercel.app) · React, MongoDB, Stripe, Auth (JWT)
+**Forever** – E-commerce for a fashion brand  
+→ [Live Demo](https://forever-ecommerce-teal.vercel.app)  
+→ Stack: React · MongoDB · JWT · Stripe
 
-**DevTree** – Linktree-style app  
-→ [Live Demo](https://devtree-miguel-miranda.netlify.app) · Node.js backend, MongoDB, REST API
+**DevTree** – Linktree-style tool with backend  
+→ [Live Demo](https://devtree-miguel-miranda.netlify.app)  
+→ Stack: Node.js · Express · MongoDB · JWT
 
 **Alveusgg** – Twitch extension (contributor)  
-→ [PR Link](https://github.com/alveusgg/extension/pull/257) · React, Tailwind, TS
+→ [PR Link](https://github.com/alveusgg/extension/pull/257)
 
 ---
 
-### 📫 Let’s Connect
+### 🔗 Links
 
 - Portfolio: [miguel-miranda-portfolio.vercel.app](https://miguel-miranda-portfolio.vercel.app)  
 - GitHub: [github.com/mirchez](https://github.com/mirchez)  
 - LinkedIn: [linkedin.com/in/mirchez](https://www.linkedin.com/in/mirchez)
 
----
