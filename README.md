@@ -29,24 +29,24 @@ Currently studying Software Engineering while building and shipping production-g
 
 **Telos** – AI-powered website builder  
 → [Live Demo](https://telos-steel.vercel.app)  
-→ Stack: Next.js · Prisma · Clerk · tRPC · Inngest
+· Stack: Next.js · Prisma · Clerk · tRPC · Inngest
 
 **Forever** – E-commerce for a fashion brand  
 → [Live Demo](https://forever-ecommerce-teal.vercel.app)  
-→ Stack: React · MongoDB · JWT · Stripe
+· Stack: React · Node.js · Express · MongoDB 
 
 **DevTree** – Linktree-style tool with backend  
 → [Live Demo](https://devtree-miguel-miranda.netlify.app)  
-→ Stack: Node.js · Express · MongoDB · JWT
+· Stack: React · Node.js · Express · MongoDB 
 
 **Alveusgg** – Twitch extension (contributor)  
-→ [PR Link](https://github.com/alveusgg/extension/pull/257)
+· [PR Link](https://github.com/alveusgg/extension/pull/257)
 
 ---
 
 ###  Links
 
-- Portfolio: [miguel-miranda-portfolio.vercel.app](https://miguel-miranda-portfolio.vercel.app)  
-- GitHub: [github.com/mirchez](https://github.com/mirchez)  
-- LinkedIn: [linkedin.com/in/mirchez](https://www.linkedin.com/in/mirchez)
+→ Portfolio: [miguel-miranda-portfolio.vercel.app](https://miguel-miranda-portfolio.vercel.app)  
+→ GitHub: [github.com/mirchez](https://github.com/mirchez)  
+→ LinkedIn: [linkedin.com/in/mirchez](https://www.linkedin.com/in/mirchez)
 
