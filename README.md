@@ -16,7 +16,7 @@ Currently studying Software Engineering while building and shipping production-g
 
 ---
 
-### 🛠️ Stack Highlights
+###  Stack Highlights
 
 **Frontend:** React.js · Next.js App Router · TailwindCSS · Shadcn · Framer Motion  
 **Backend:** Node.js · Hono.js · Appwrite · tRPC · Prisma · PostgreSQL · MongoDB  
@@ -25,7 +25,7 @@ Currently studying Software Engineering while building and shipping production-g
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 **Telos** – AI-powered website builder  
 → [Live Demo](https://telos-steel.vercel.app)  
@@ -44,7 +44,7 @@ Currently studying Software Engineering while building and shipping production-g
 
 ---
 
-### 🔗 Links
+###  Links
 
 - Portfolio: [miguel-miranda-portfolio.vercel.app](https://miguel-miranda-portfolio.vercel.app)  
 - GitHub: [github.com/mirchez](https://github.com/mirchez)  
