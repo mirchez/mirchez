@@ -1,52 +1,53 @@
-<h1 align="center">
-👋 𝐇𝐞𝐥𝐥𝐨, &lt;devs/&gt;! 🚀  
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+<h1 align="center">Hey, I'm Miguel Miranda </h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;MERN+Stack+Web+Developer;UX%20/%20UI%20%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=40">
-</a>
-	
+  Fullstack Developer   
 </p>
-<h2>🌱𝘼𝙗𝙤𝙪𝙩 𝙢𝙚</h2>
-<p>
-    👋 Hi! I’m Miguel Miranda, a developer passionate about building dynamic and functional web applications using the MERN stack. Currently, I’m pursuing a degree in Systems Engineering, where I blend academic knowledge with hands-on development experience.
 
-Curious by nature and passionate about learning.
+---
 
-</p>
-<pre>
-💻 I am mainly a Frontend Developer.
-📝 I am very interested in AI innovation and Web3 development.
-🛠️ Currently working on some personal proyects for my portfolio.
-🌱 Learning more about Machine Learning.
-🌟 Main language: Typescript 😁.
-✅ Familiarity with languages: Python, Java, C++.
-😃 I look forward to collaborate on impactful projects.
-</pre>
-<br/>
-<h2 >
-  🛠️ 𝙈𝙮 𝙨𝙠𝙞𝙡𝙡𝙨 🔧
-</h2>
+###  About Me
 
-   <h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,sass,nextjs&perline=14" />
-  </a>
-</p>
-<br/>
-  <h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongo,firebase,express,prisma,graphql,postgresql&perline=14" />
-  </a>
-</p>
-<br/>
-  <h3 align="center">Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,vite,jest,babel,postman,docker,gulp,mui,figma&perline=14" />
-  </a>
-</p>
-<br/>
+I'm a fullstack developer with a frontend focus (React.js, Next.js App Router, TailwindCSS, Shadcn).  
+Currently pursuing a degree in Systems Engineering, and building polished, production-ready apps with strong UX and clean architecture.
+
+I thrive on:
+- Building fast, scalable UI + backend systems
+- Integrating AI tools (OpenAI SDK, Inngest, prompt management, logging, evaluation)
+- Contributing to early-stage product development with ownership and clarity
+
+Check out my portfolio: [miguel-miranda-portfolio.vercel.app](https://miguel-miranda-portfolio.vercel.app)
+
+---
+
+###  Tech Stack
+
+**Frontend:** React.js · Next.js (App Router) · TailwindCSS · Shadcn · Framer Motion  
+**Backend:** Node.js · Hono.js · tRPC · Prisma · PostgreSQL · MongoDB  
+**Infra & Tools:** Docker · Turborepo · GitHub Actions · Clerk · Inngest SDK  
+**Other:** TypeScript · Zod · TanStack Query · Playwright · AI SDKs · OOP · SOLID
+
+---
+
+###  Projects
+
+**Telos** – AI-powered website builder  
+→ [Live Demo](https://telos-steel.vercel.app) · Built with Next.js, Prisma, Clerk, tRPC, Inngest
+
+**Forever** – E-commerce app  
+→ [Live Demo](https://forever-ecommerce-teal.vercel.app) · React, MongoDB, Stripe, Auth (JWT)
+
+**DevTree** – Linktree-style app  
+→ [Live Demo](https://devtree-miguel-miranda.netlify.app) · Node.js backend, MongoDB, REST API
+
+**Alveusgg** – Twitch extension (contributor)  
+→ [PR Link](https://github.com/alveusgg/extension/pull/257) · React, Tailwind, TS
+
+---
+
+### 📫 Let’s Connect
+
+- Portfolio: [miguel-miranda-portfolio.vercel.app](https://miguel-miranda-portfolio.vercel.app)  
+- GitHub: [github.com/mirchez](https://github.com/mirchez)  
+- LinkedIn: [linkedin.com/in/mirchez](https://www.linkedin.com/in/mirchez)
+
+---
