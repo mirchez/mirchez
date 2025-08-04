@@ -1,4 +1,4 @@
-### Hey, I'm Miguel 👋
+### Hey, I'm Miguel 
 
 I ship production-ready fullstack apps. Currently studying Software Engineering while building real products.
 
@@ -38,6 +38,3 @@ I focus on **developer tools**, **AI-powered applications**, and **SaaS products
 - Email: mmirandasanchez16@gmail.com
 - LinkedIn: [linkedin.com/in/mirchez](https://www.linkedin.com/in/mirchez)
 
----
-
-*Looking for opportunities to build impactful products at fast-moving startups.*
