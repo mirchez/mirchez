@@ -1,6 +1,6 @@
-### Hey, I'm Miguel 
+### I'm Miguel 
 
-I ship production-ready fullstack apps. Currently studying Software Engineering while building real products.
+I ship production-ready fullstack apps. Currently studying Software Engineering while developing impactful products.
 
 ### What I Build
 
