@@ -1,6 +1,6 @@
 ### I'm Miguel 
 
-I ship production-ready fullstack apps. Currently studying Software Engineering while developing impactful products.
+I ship production-ready fullstack apps. Currently pursuing Software Engineering degree while developing impactful products.
 
 ### What I Build
 
