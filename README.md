@@ -8,7 +8,7 @@ I focus on **developer tools**, **AI-powered applications**, and **SaaS products
 - Frontend: Next.js 14 (App Router), React 19, TypeScript, TailwindCSS
 - Backend: Node.js, PostgreSQL, Prisma, tRPC
 - Infrastructure: Docker, Vercel, Railway, GitHub Actions
-- AI: OpenAI API, Vercel AI SDK, vector databases
+- AI: LangChain, OpenAI API, Vercel AI SDK, vector databases, RAG, Pipelines.
 
 ### Recent Work
 
