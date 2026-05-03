@@ -1,40 +1,24 @@
-### I'm Miguel 
+### Hi, I'm Miguel
 
-I ship production-ready fullstack apps. Currently pursuing Software Engineering degree while developing impactful products.
+Software engineer from Paraguay. Currently at [Brightlight Health](https://www.brightlight.health), a Canadian healthcare SaaS, shipping clinical EMR features in production. Co-founded [Talkeo](https://www.talkeo.ai), an AI voice tutor for Spanish and Portuguese speakers learning English.
 
-### What I Build
+More at [mirchez.com](https://mirchez.com).
 
-I focus on **developer tools**, **AI-powered applications**, and **SaaS products** using:
-- Frontend: Next.js 14 (App Router), React 19, TypeScript, TailwindCSS
-- Backend: Node.js, PostgreSQL, Prisma, tRPC
-- Infrastructure: Docker, Vercel, Railway, GitHub Actions
-- AI: LangChain, OpenAI API, Vercel AI SDK, vector databases, RAG, Pipelines.
+### Stack
 
-### Recent Work
+Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, tRPC, Tailwind, Docker, Vercel, GitHub Actions. AI: LangChain, OpenAI API, Vercel AI SDK, vector databases, RAG, agent pipelines.
 
-**[Telos](https://telos-steel.vercel.app)** - AI website builder that generates full sites from prompts
-- Built with Next.js, tRPC, Prisma, and OpenAI
-- Handles async AI workflows with Inngest
-- Type-safe from database to frontend
+### Recent
 
-**[Forever](https://forever-ecommerce-teal.vercel.app)** - Full-stack e-commerce platform
-- Complete checkout flow with Stripe integration
-- Admin dashboard for inventory management
-- Built with MERN stack
+**[Talkeo](https://www.talkeo.ai)** — AI voice tutor. Built the voice pipeline on LiveKit with sub-second turn latency.
 
-**[DevTree](https://devtree-miguel-miranda.netlify.app)** - Developer-focused link aggregator
-- REST API with JWT authentication
-- Real-time updates using WebSockets
-- MongoDB for flexible schema
+**[Telos](https://telos-steel.vercel.app)** — AI website builder. Next.js + tRPC + Prisma + OpenAI + Inngest.
 
-### Open Source
+**[Sync](https://sync-theta-five.vercel.app)** — Issue and project tracker. Hono.js, Appwrite, tRPC.
 
-- Contributing to [Alveusgg](https://github.com/alveusgg/extension/pull/257) - Twitch extension used by 10k+ users
-- Building in public, all my projects are open source
+### Connect
 
-### Let's Connect
-
-- Portfolio: [miguel-miranda-portfolio.vercel.app](https://miguel-miranda-portfolio.vercel.app)
-- Email: mmirandasanchez16@gmail.com
-- LinkedIn: [linkedin.com/in/mirchez](https://www.linkedin.com/in/mirchez)
-
+- [mirchez.com](https://mirchez.com)
+- [LinkedIn](https://linkedin.com/in/mirchez)
+- [X](https://x.com/mirchezz)
+- [Portfolio](https://miguel-miranda-portfolio.vercel.app)
